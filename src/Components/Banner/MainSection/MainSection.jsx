@@ -7,7 +7,7 @@ const MainSection = () => {
         NATION.
       </p>
       <div className="flex justify-center items-center mt-5">
-        <img src="/src/asserts/3.png" alt="" className="w-4/5" />
+        <img src="https://i.ibb.co/48gX8Nj/3.png" alt="" className="w-4/5" />
       </div>
       <div className="border-b border-b-red-700 w-11/12 mx-auto">
         <p className="text-center my-2 ">

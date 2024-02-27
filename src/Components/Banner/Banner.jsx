@@ -3,7 +3,7 @@ const Banner = () => {
     <section className="w-11/12 mx-auto flex flex-col lg:flex-row gap-7 mt-5 md:mt-8 lg:mt-12">
       <div className="lg:w-2/5 flex justify-center items-center">
         <img
-          src="/src/asserts/1.png"
+          src="https://i.ibb.co/ZzTRZWr/1.png"
           alt=""
           className="w-1/2 lg:w-full lg:h-full"
         />
@@ -28,7 +28,7 @@ const Banner = () => {
         </ul>
         <div className="px-10 py-5">
           <img
-            src="/src/asserts/2.png"
+            src="https://i.ibb.co/r0xzZ23/2.png"
             alt=""
             className="w-full lg:h-[550px]"
           />
